@@ -13,3 +13,12 @@ The goal of this exercise is to analyze a [customer personality dataset](https:/
 graphic information, spending habits, promotional responses, and purchasing behaviors.
 we will conduct hypothesis tests to uncover insights about customer behaviors and char-
 acteristics.
+## Assignment 2
+In this assignment, the goal is to improve our real-world data skills through more emphasis on Exploratory Data Analysis. The purpose of this project is to develop
+the ability to extract meaningful insights from complex datasets, apply statistical methods to real-world problems, and communicate our findings effectively
+through visualization and storytelling.
+### YouTube Videos Analysis
+Here I explore the [YouTube trending videos dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new/) and uncover the key factors behind
+viral content. Through exploratory data analysis (EDA) and data visualization, I will analyze engagement patterns, trends, and content characteristics. However, this is not just about answering a set
+of predefined questions. I craft my own data-driven story and develop meaningful insights
+based on it.

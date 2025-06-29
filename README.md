@@ -37,3 +37,17 @@ column template (ID, label). Finally, y test.csv stores the hidden ground truth 
 
 visible only to Kaggle’s scoring engine. No feature is missing; every cell is either 0 or 1,
 and the label is an integer 0–10, giving us eleven classes.
+
+##Assignment 4
+In this assignment, we will act as data scientists for a fictitious insurance company. The
+mission is to build a regression model that accurately predicts the Policy Cost based
+on a diverse set of anonymized customer and policy-related features. The dataset mimics
+real-world insurance data, making the task a comprehensive exercise in handling various
+data types and predicting continuous values.
+
+There are three files on This [Kaggle competition](https://www.kaggle.com/competitions/data-science-5-sbu/overview):
+train.csv contains approximately 1,100,000 rows, each with an integer ID, numerous
+anonymized features (e.g., Years Lived, Sex, Yearly Earnings, etc.), and the target
+Policy Cost. x_test.csv mirrors that structure but omits the Policy Cost, holding
+100,000 rows that will decide the leaderboard. sample_submission.csv is a two-column
+template (ID, Policy Cost).

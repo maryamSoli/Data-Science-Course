@@ -22,3 +22,18 @@ Here I explore the [YouTube trending videos dataset](https://www.kaggle.com/data
 viral content. Through exploratory data analysis (EDA) and data visualization, I will analyze engagement patterns, trends, and content characteristics. However, this is not just about answering a set
 of predefined questions. I craft my own data-driven story and develop meaningful insights
 based on it.
+## Assignment 3
+In this assignment the main goal is to act as data-scientists for a fictitious data. Our mission is to
+build a model that predicts a 11 class category from 64 synthesized flags. The features
+mimic “present / absent” indicators such as abnormal lab values, symptoms, or billing
+codes, making the task surprisingly subtle despite the modest table size.
+
+There are three files on This [Kaggle competition](https://www.kaggle.com/competitions/datascience-4-competition/overview):
+train.csv contains 564 rows, each with an integer ID, 64 binary features (feature0 –
+feature63) and the target label. test.csv mirrors that structure but omits the label,
+
+holding 143 rows that will decide the leaderboard. sample submission.csv is a two-
+column template (ID, label). Finally, y test.csv stores the hidden ground truth and is
+
+visible only to Kaggle’s scoring engine. No feature is missing; every cell is either 0 or 1,
+and the label is an integer 0–10, giving us eleven classes.
